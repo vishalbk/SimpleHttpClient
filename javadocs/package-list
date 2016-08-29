@@ -1,0 +1,6 @@
+com.shc.ahttp.client
+com.shc.ahttp.client.exception
+com.shc.ahttp.client.messageconverter
+com.shc.ahttp.client.request
+com.shc.ahttp.client.response
+com.shc.ahttp.client.util
