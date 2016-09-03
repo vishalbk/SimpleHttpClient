@@ -69,7 +69,6 @@ public class SGetClientTest extends TestCase {
                 HttpBinGetResponse.class);
         SClientResponse<HttpBinGetResponse> response = sGetClient.getRequest();
 
-        System.out.println(response);
         assertTrue(response.isBodyPresent());
         assertEquals(200, response.getStatusCode());
         assertEquals("OK", response.getReasonPhrase());
