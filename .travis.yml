@@ -1,2 +1,4 @@
 language: java
-script: mvn install javadoc:javadoc
+script: mvn clean install javadoc:javadoc
+after_success:
+  - mvn clean test jacoco:report coveralls:report
