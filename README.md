@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vishalbk/SimpleHttpClient.svg?branch=master)](https://travis-ci.org/vishalbk/SimpleHttpClient) [![Coverage Status](https://coveralls.io/repos/github/vishalbk/SimpleHttpClient/badge.svg?branch=master)](https://coveralls.io/github/vishalbk/SimpleHttpClient?branch=master)
+
 # Simple HTTP Client (SHC)
 -----------------------------
 
